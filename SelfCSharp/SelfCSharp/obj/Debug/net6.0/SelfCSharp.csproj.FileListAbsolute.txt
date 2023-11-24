@@ -1,0 +1,15 @@
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.csproj.AssemblyReference.cache
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.AssemblyInfoInputs.cache
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.AssemblyInfo.cs
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.csproj.CoreCompileInputs.cache
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\bin\Debug\net6.0\SelfCSharp.exe
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\bin\Debug\net6.0\SelfCSharp.deps.json
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\bin\Debug\net6.0\SelfCSharp.runtimeconfig.json
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\bin\Debug\net6.0\SelfCSharp.dll
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\bin\Debug\net6.0\SelfCSharp.pdb
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.dll
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\refint\SelfCSharp.dll
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.pdb
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\SelfCSharp.genruntimeconfig.cache
+T:\Git\C_Sharp_Practice\SelfCSharp\SelfCSharp\obj\Debug\net6.0\ref\SelfCSharp.dll
